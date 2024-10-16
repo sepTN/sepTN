@@ -4,3 +4,9 @@ Hi, I'm sepTN, one of the Godot Engine developers from Indonesia and a contribut
 
 
 ![Screenshot](./screenshot.png)
+
+> [!NOTE]
+> Currently developing **Sentou Gakuen: Revival**:
+- [Website](https://gakuen.org)
+- [Steam](https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/)
+- [Tech Demo](https://store.steampowered.com/app/3175150/Sentou_Gakuen_Revival_Demo/)
