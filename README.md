@@ -1,5 +1,7 @@
 ![Header](header.png)
 
+[English](README.md) | [Bahasa Indonesia](README.id.md)
+
 # Septian (sepTN)
 
 Indonesian software engineer and game developer. Godot Engine contributor. Builder of Jepang.org (Japanese learning, JLPT, kanji).
@@ -10,7 +12,7 @@ Indonesian software engineer and game developer. Godot Engine contributor. Build
 
   [![Sentou Gakuen Screenshot](screenshot.png)](https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/)
 
-  * **Sentou Gakuen: Revival on Steam (Wishlist)**: https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/
+  * **Sentou Gakuen: Revival on Steam (EA)**: https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/
   * **Sentou Gakuen: Revival Demo on Steam**: https://store.steampowered.com/app/3175150/Sentou_Gakuen_Revival_Demo/
   * **Official site**: https://gakuen.org
 
