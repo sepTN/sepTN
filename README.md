@@ -5,6 +5,7 @@
 # Septian (sepTN)
 
 Indonesian software engineer and game developer. Godot Engine contributor. Builder of Jepang.org (Japanese learning, JLPT, kanji).
+I love sipping a freshly brewed coffee and watching [anime](https://anime.jepang.org/).
 
 ## Currently
 
