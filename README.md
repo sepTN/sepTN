@@ -1,51 +1,61 @@
-![Header](header.png)
+![Welcome to sepTN Github Page](header.png)
 
 [English](README.md) | [Bahasa Indonesia](README.id.md)
 
-# Septian (sepTN)
+# Septian Ganendra S. K. (sepTN)
 
-Indonesian software engineer and game developer. Godot Engine contributor. Builder of Jepang.org (Japanese learning, JLPT, kanji).
-I love sipping a freshly brewed coffee and watching [anime](https://anime.jepang.org/).
+Indonesian software engineer, game developer, and Japanese language educator. I make games, build language tools, and contribute to open source.
 
-## Currently
+[![Website](https://img.shields.io/badge/Website-septn.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://septn.com)
+[![Jepang.org](https://img.shields.io/badge/Jepang.org-Japanese%20Learning-bf0615?style=for-the-badge)](https://jepang.org)
+[![Gakuen.org](https://img.shields.io/badge/Gakuen.org-Game%20Project-1d4ed8?style=for-the-badge&logo=steam&logoColor=white)](https://gakuen.org)
+[![Godot Engine Contributor](https://img.shields.io/badge/Godot%20Engine-Contributor-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3AsepTN)
+[![Google Certified](https://img.shields.io/badge/Google%20Certified-Associate%20Android%20Developer-34A853?style=for-the-badge&logo=android&logoColor=white)](https://www.credential.net/4a0afead-3915-40a2-a5a3-a9b0530c9c75?key=e8aec71bc0c79716f208b9cbf9b277c9dca92ff8cc22bfd99881538b62985c8a&record_view=true)
+[![JLPT](https://img.shields.io/badge/JLPT-Certified-BF0615?style=for-the-badge)](https://septn.com/about/)
+[![npm](https://img.shields.io/badge/npm-septn-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~septn)
+[![GitHub Followers](https://img.shields.io/github/followers/sepTN?style=for-the-badge&logo=github&label=GitHub%20Followers)](https://github.com/sepTN)
 
-* Building **Sentou Gakuen: Revival** (visual novel/RPG on **Godot Engine**)
+Most of what I do falls into three buckets: game development, Japanese language tooling, and open-source contributions. The bigger public stuff is **Jepang.org**, **Sentou Gakuen: Revival**, and a handful of small tools and datasets I keep offline-friendly and fast.
 
-  [![Sentou Gakuen Screenshot](screenshot.png)](https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/)
+![sepTN inside Godot Engine 4.3](screenshot.png)
 
-  * **Sentou Gakuen: Revival on Steam (EA)**: https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/
-  * **Sentou Gakuen: Revival Demo on Steam**: https://store.steampowered.com/app/3175150/Sentou_Gakuen_Revival_Demo/
-  * **Official site**: https://gakuen.org
+## Currently building
+
+- **Sentou Gakuen: Revival**: Massively multiplayer online visual novel built using **Godot Engine**.
+- **Steam (EA)**: [store.steampowered.com/app/405680/Sentou_Gakuen_Revival](https://store.steampowered.com/app/405680/Sentou_Gakuen_Revival/)
+- **Steam Demo**: [store.steampowered.com/app/3175150/Sentou_Gakuen_Revival_Demo](https://store.steampowered.com/app/3175150/Sentou_Gakuen_Revival_Demo/)
+- **Official site**: [gakuen.org](https://gakuen.org)
 
 ## What I work on
 
-### Game development (Godot)
+### Game development
 
-* Godot Engine contributions: https://github.com/godotengine/godot/pulls?q=is:pr+author:sepTN
-* GodotSteam contributions: https://github.com/CoaguCo-Industries/GodotSteam/pulls?q=is:pr+author:sepTN
-* Godot Engine ID Localization (Weblate): https://hosted.weblate.org/projects/godot-engine/-/id/#information
+- **Godot Engine**: listed in [engine credits](https://godotengine.org/contact/#:~:text=Septian%20Ganendra%20S.%20K.%20%28sepTN%29)
+- **GodotSteam**: listed in [contributor credits](https://godotsteam.com/contribute/contributors/#:~:text=sepTN)
+- **Godot Engine ID localization**: [hosted.weblate.org/projects/godot-engine/-/id/#information](https://hosted.weblate.org/projects/godot-engine/-/id/#information)
 
-### Language tech (Japanese, JLPT, kanji, NLP)
+### Language tech and education
 
-I run **Jepang.org**, a Japanese learning platform for Indonesian learners, and I like shipping small tools that stay fast and offline-friendly.
+- **Jepang.org**: Indonesian-first Japanese learning platform covering JLPT, kanji, grammar, vocabulary, anime data, and related tools
+- **Anime.Jepang.org**: anime schedule and database surface for Indonesian users
+- **Kanji.Jepang.org**: standalone kanji reference product inside the broader ecosystem
+- Focus areas: **Japanese language**, **JLPT**, **kanji**, **datasets**, **search**, and **NLP-oriented tooling**
 
-## Featured repos
+## Featured repositories
 
-* **kanji-data** (Node.js, dataset): offline-first kanji database with build-time sharding
-  https://github.com/sepTN/kanji-data
-
-* **Bunpou Lens** (Japanese NLP, Kuromoji): client-side morphological analysis for Japanese sentences
-  https://github.com/sepTN/bunpou-lens
-
-* **kotowaza** (dataset, JLPT): Japanese proverbs JSON dataset with EN/ID meanings + metadata
-  https://github.com/sepTN/kotowaza
-
-* **kanji-png** (SVG, stroke order): generate kanji stroke-order visuals programmatically
-  https://github.com/sepTN/kanji-png-gif
+- **kanji-data**: offline-first kanji database for Node.js with build-time sharding  
+  [github.com/sepTN/kanji-data](https://github.com/sepTN/kanji-data)
+- **Bunpou Lens**: client-side Japanese sentence analysis powered by Kuromoji  
+  [github.com/sepTN/bunpou-lens](https://github.com/sepTN/bunpou-lens)
+- **kotowaza**: Japanese proverb dataset with Indonesian and English meanings  
+  [github.com/sepTN/kotowaza](https://github.com/sepTN/kotowaza)
+- **kanji-png-gif**: programmable kanji stroke-order image generation  
+  [github.com/sepTN/kanji-png-gif](https://github.com/sepTN/kanji-png-gif)
 
 ## Find me
 
-* Gakuen.org: https://gakuen.org
-* Jepang.org: https://jepang.org
-* npm: https://www.npmjs.com/~septn
-* GitHub: https://github.com/sepTN
+- **Website**: [septn.com](https://septn.com)
+- **Jepang.org**: [jepang.org](https://jepang.org)
+- **Gakuen.org**: [gakuen.org](https://gakuen.org)
+- **npm**: [npmjs.com/~septn](https://www.npmjs.com/~septn)
+- **GitHub**: [github.com/sepTN](https://github.com/sepTN)
