@@ -1,6 +1,6 @@
 ![Welcome to sepTN Github Page](header.png)
 
-[English](README.md) | [Bahasa Indonesia](README.id.md)
+[English](README.md) | [Bahasa Indonesia](README.id.md) | [日本語](README.ja.md)
 
 # Septian Ganendra S. K. (sepTN)
 
